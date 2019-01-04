@@ -7,5 +7,5 @@
           xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
     <Button GridPane.rowIndex="2" text="CLICK ME" onAction="#add"/>
     <Label GridPane.rowIndex="1" fx:id="score" text="Score: 0"/>
-    <Label GridPane.rowIndex="0" fx:id="timer" text="Timer"/>
+    <Label GridPane.rowIndex="0" fx:id="thetimer" text="Timer"/>
 </GridPane>
